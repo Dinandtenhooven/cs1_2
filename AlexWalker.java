@@ -1,6 +1,14 @@
+/**
+ * This class is useless
+ * 
+ * TODO: Try to not be such a massive prick
+ */
 public class AlexWalker {
 	public AlexWalker(){
 		// take a dump
 	}
-	// this class is useless
+
+	public void interact() {
+		//NEVER Call this function
+	}
 }
