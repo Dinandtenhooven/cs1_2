@@ -22,6 +22,8 @@ public class AlexWalker {
 		System.out.println(Jokes.get(item));
 	}
 	
-	
+	public void Fight() {
+		System.out.println("BB bikeshed, 15:00, you cunt!");	
+	}
 	
 }
