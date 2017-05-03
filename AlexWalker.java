@@ -1,5 +1,5 @@
 public class AlexWalker {
-	publicc AlexWalker(){
+	public AlexWalker(){
 		// take a dump
 	}
 	// this class is useless
